@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>5.4.2</version>
+            <version>5.8.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
@@ -64,12 +64,12 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>LINE</counter>
+                                    <counter>lINE</counter>
                                     <value>COVEREDRATIO</value>
                                     <minimum>100%</minimum>
                                 </limit>
                                 <limit>
-                                    <counter>LINE</counter>
+                                    <counter>lINE</counter>
                                     <value>MISSEDCOUNT</value>
                                     <maximum>100%</maximum>
                                 </limit>
