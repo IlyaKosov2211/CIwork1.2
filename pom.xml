@@ -64,14 +64,9 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>lINE</counter>
-                                    <value>COVEREDRATIO</value>
+                                    <counter>BRANCH</counter>
+                                    <value>TOTALCOUNT</value>
                                     <minimum>100%</minimum>
-                                </limit>
-                                <limit>
-                                    <counter>lINE</counter>
-                                    <value>MISSEDCOUNT</value>
-                                    <maximum>100%</maximum>
                                 </limit>
                             </limits>
                         </rule>
