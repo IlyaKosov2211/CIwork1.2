@@ -63,7 +63,7 @@
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
-                                            <value>TOTALCOUNT</value>
+                                            <value>COVEREDRATIO</value>
                                             <minimum>1.0</minimum>
                                         </limit>
                                     </limits>
@@ -75,6 +75,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>
