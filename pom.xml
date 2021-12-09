@@ -63,8 +63,8 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>BRUNCH</counter>
-                                            <value>COVEREDRATIO</value>
+                                            <counter>BRANCH</counter>
+                                            <value>TOTALCOUNT</value>
                                             <minimum>1.0</minimum>
                                         </limit>
                                     </limits>
