@@ -61,7 +61,6 @@
                         <configuration>
                             <rules>
                                 <rule>
-                                    <element>BUNDLE</element>
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
